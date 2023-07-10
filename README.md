@@ -28,3 +28,6 @@ CREATE TABLE IF NOT EXISTS books (
 
 ### Deleting a Book
 ![DELETE Request](./images/delete.png)
+
+### Book Inventory Database After Operations
+![Database](./images/db.png)
